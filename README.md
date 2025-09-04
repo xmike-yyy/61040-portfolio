@@ -10,7 +10,7 @@ Some fun facts about me:
 2. I love watching basketball and is interested in sports analytics in general.
 3. I placed 2nd in my fantasy football leagues twice in a row. Hope to win this year.
 
-![my second favorite activity] (./assets/IMG_6733.JPG)
+![my second favorite activity](./assets/IMG_6733.JPG)
 
 
 # Table of Contents
